@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://img.freepik.com/free-vector/corporate-cover-web-banner-template_207180-711.jpg?size=626&ext=jpg">
 <!--
 **sonkelly/sonkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
